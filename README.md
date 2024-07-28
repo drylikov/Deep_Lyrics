@@ -1,4 +1,4 @@
-# Deep-Lyrics
+# Deep lyrics
 *Lyrics Generator aka Character-level Language Modeling with Multi-layer LSTM Recurrent Neural Network*
 
 The goal of this project is to generate completely new original lyrics inspired by the work of an arbitrary number of artists.
